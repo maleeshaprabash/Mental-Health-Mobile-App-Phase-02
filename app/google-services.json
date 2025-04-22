@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006373798338",
+    "project_id": "evervitalapp",
+    "storage_bucket": "evervitalapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006373798338:android:7b958d1f54c661366d965b",
+        "android_client_info": {
+          "package_name": "com.example.evervital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8jNmMMjuJH03Tw3j21eXZ8nd88LstxwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
